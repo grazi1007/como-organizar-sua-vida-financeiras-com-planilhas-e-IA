@@ -1,20 +1,21 @@
-# como-organizar-sua-vida-financeiras-com-planilhas-e-IA
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+# Projeto Organizando a vida finnceira com planilhas
 
-# Projeto EBOOK Gerado por I.A.s
+## 💻 Tecnologias utilizadas no projeto
 
+- [ChatGPT](https://chat.openai.com/) 
+- [excel]
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna do Bootcamp na plataforma da [DIO](https://dio.me)
+## ✨ Como foi feito ?
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+- utilizada planilha de dados fornecida pela DIO
+- Feito o dashboard confome videos
+- CHATGPT para identificar como melhorar a performance financeira
 
-<a href="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+## 🛠️ Instruções de execução
+
+<a href="https://github.com/grazi1007/Organizando-a-vida-financeira-utilizando-planilhas/blob/7bfa9ed845e4d6856b3c685bde9452468696a317/assets/Estrat%C3%A9gia%20para%20Guardar%20Dinheiro%20para%20um%20Carro%20Novo%20com%20basena%20an%C3%A1lise%20da%20planilha%20pelo%20chatgpt.pdf"> 📕Clique aqui para ler</a>
+
+⌨️ com 💜 por [Graziela Ribeiro]
 
 ## 💻 Tecnologias utilizadas no projeto
 
